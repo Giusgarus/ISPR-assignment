@@ -5,7 +5,7 @@ This repository contains the assignments for the ISPR course (Intelligente syste
 ## Repository Structure
 
 - `Assignment1 track 4/`: Edge detection.  
-- `Assignment2 rack 4/`: Bayesin Network.
+- `Assignment2 track 4/`: Bayesin Network.
 - `Assignment3/`: Brief description of the third assignment.
 - `Assignment4/`: Brief description of the fourth assignment.
 
