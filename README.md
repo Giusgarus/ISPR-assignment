@@ -11,10 +11,10 @@ This repository contains the assignments for the ISPR course (Intelligente syste
 
 ## Assignment Details
 
-### Assignment 1: [Title of Assignment 1]
+### Assignment 1: [Edge detection]
 
 **Description:**  
-Implement the convolution of a set of edge detection filters with an image and apply it to at three images of your choice from the dataset. Implement Roberts, Prewitt and Sobel filters (see here, Section 5.2, for a reference) and compare the results (it is sufficient to do it visually).  You should not use the library functions for performing the convolution or to generate the Sobel filter. Implement your own and show the code!
+Implement the convolution of a set of edge detection filters with an image and apply it to at three images of your choice from the [dataset](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#). Implement Roberts, Prewitt and Sobel filters (see here, Section 5.2, for a reference) and compare the results (it is sufficient to do it visually).  You should not use the library functions for performing the convolution or to generate the Sobel filter. Implement your own and show the code!
 
 
 **Deadline:**  
