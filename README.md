@@ -1,13 +1,13 @@
 # ISPR 24/25 - Assignments
 
-This repository contains the assignments for the ISPR course (Intelligente system for Pattern Recognition) for the academic year 2024/2025. Each folder corresponds to one of the four assignments given during the course.
+This repository contains the assignments for the ISPR course (Intelligent Systems for Pattern Recognition) for the academic year 2024/2025. Each folder corresponds to one of the four assignments given during the course.
 
 ## Repository Structure
 
-- `Assignment1 track 4/`: Edge detection.  
-- `Assignment2 track 4/`: Bayesin Network.
-- `Assignment3/`: Brief description of the third assignment.
-- `Assignment4/`: Brief description of the fourth assignment.
+- `Assignment1 track 4/`: Edge detection with convolution filters.  
+- `Assignment2 track 4/`: Bayesian Network modeling and sampling.  
+- `Assignment3/`: Horse semantic segmentation with convolutional neural networks.  
+- `Assignment4/`: Paper review and presentation.
 
 ## Assignment Details
 
@@ -45,31 +45,49 @@ The assignment needs to be fully implemented by you, without using BN libraries.
 **Deadline:**  
 [Tuesday, 22 April 2025, 2:00 PM]
 
-### Assignment 3: [Title of Assignment 3]
+### Assignment 3: Horse Semantic Segmentation with Convolutional Neural Networks
 
 **Description:**  
-Brief description of the third assignment.
+Implement a convolutional neural network (CNN) for semantic segmentation of horses in images. You are required to use a publicly available dataset, such as the [Weizmann Horse Dataset](https://www.msri.org/people/members/eranb/horse.html), and train a model to segment horse regions from the background. You may use popular deep learning frameworks (e.g., PyTorch, TensorFlow) and leverage pre-trained models if desired, but you must clearly document any transfer learning or data augmentation strategies used.
 
 **Instructions:**  
-- Instruction 1  
-- Instruction 2  
-- ...
+1. Download and preprocess the horse segmentation dataset.  
+2. Design and implement a CNN architecture suitable for semantic segmentation (e.g., U-Net, FCN).  
+3. Train your model on the training set and evaluate its performance on the validation/test set using appropriate metrics (e.g., IoU, pixel accuracy).  
+4. Visualize and discuss the segmentation results, highlighting both successes and failure cases.  
+5. Document your code, methodology, and findings in a report or notebook.  
+6. Submit your code, trained model, and report by the deadline.
 
 **Deadline:**  
-[Due date]
+[Tuesday, 20 May 2025, 2:00 PM]
 
-### Assignment 4: [Title of Assignment 4]
+### Assignment 4: Paper Review and Presentation
 
 **Description:**  
-Brief description of the fourth assignment.
+The fourth midterm covers the program until lecture 36. Unlike previous assignments, this midterm requires you to read and summarize the main findings of a single paper chosen from the list provided below.
+
+Students are expected to deliver a short presentation (no more than 8 slides) covering the following content:
+
+- Introduction to the problem
+- Model description
+- Key insight of the model, represented by a commented equation
+- Key (empirical) result
+- Comments on novelties, strengths, and weaknesses
+
+Paper chosen: [Ho and Ermon, Generative Adversarial Imitation Learning, NIPS 2016](https://arxiv.org/abs/1606.03476)
 
 **Instructions:**  
-- Instruction 1  
-- Instruction 2  
-- ...
+1. Select one paper from the provided list.
+2. Carefully read and analyze the paper.
+3. Prepare a presentation (maximum 8 slides) addressing all required points.
+4. Highlight and comment on a key equation from the paper.
+5. Summarize the main empirical result(s).
+6. Discuss the novelties, strengths, and weaknesses of the work.
+7. Submit your slides and be ready to present them on the assigned date.
 
 **Deadline:**  
-[Due date]
+[Friday, 27 June 2025, 6:00 PM]  
+(For the first appello: Wednesday, 4 June 2025, 6:00 PM)
 
 ## Contribution Guidelines
 
