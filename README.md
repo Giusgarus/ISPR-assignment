@@ -4,10 +4,10 @@ This repository contains the assignments for the ISPR course (Intelligent System
 
 ## Repository Structure
 
-- `Assignment1 track 4/`: Edge detection with convolution filters.  
-- `Assignment2 track 4/`: Bayesian Network modeling and sampling.  
-- `Assignment3/`: Horse semantic segmentation with convolutional neural networks.  
-- `Assignment4/`: Paper review and presentation.
+- `First/`: (track 4) Edge detection with convolution filters.  
+- `Second/`: (track 4) Bayesian Network modeling and sampling.  
+- `Third/`: (track 2) Horse semantic segmentation with convolutional neural networks.  
+- `Fourth/`: Paper review and presentation.
 
 ## Assignment Details
 
